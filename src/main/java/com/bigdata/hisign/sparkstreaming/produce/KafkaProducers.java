@@ -1,7 +1,7 @@
 package com.bigdata.hisign.sparkstreaming.produce;
 
 import com.alibaba.fastjson.JSON;
-import com.zgq.spark.model.Person;
+import com.bigdata.hisign.sparkstreaming.model.Person;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.clients.producer.ProducerRecord;

@@ -1,8 +1,8 @@
 package com.bigdata.hisign.sparkstreaming.stream;
 
 import com.alibaba.fastjson.JSON;
-import com.zgq.spark.model.Person;
-import com.zgq.spark.util.JavaSparkSessionSingleton;
+import com.bigdata.hisign.sparkstreaming.model.Person;
+import com.bigdata.hisign.sparkstreaming.util.JavaSparkSessionSingleton;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.common.serialization.StringDeserializer;
