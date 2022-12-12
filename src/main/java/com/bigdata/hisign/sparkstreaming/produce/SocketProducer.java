@@ -1,4 +1,4 @@
-package com.zgq.spark.produce;
+package com.bigdata.hisign.sparkstreaming.produce;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.zgq.spark.stream;
+package com.bigdata.hisign.sparkstreaming.stream;
 
 import com.google.common.io.Files;
 import com.zgq.spark.util.JavaDroppedWordsCounter;

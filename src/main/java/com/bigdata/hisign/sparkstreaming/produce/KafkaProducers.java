@@ -1,4 +1,4 @@
-package com.zgq.spark.produce;
+package com.bigdata.hisign.sparkstreaming.produce;
 
 import com.alibaba.fastjson.JSON;
 import com.zgq.spark.model.Person;

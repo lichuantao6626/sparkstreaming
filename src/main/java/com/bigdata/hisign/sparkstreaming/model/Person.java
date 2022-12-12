@@ -1,4 +1,4 @@
-package com.zgq.spark.model;
+package com.bigdata.hisign.sparkstreaming.model;
 
 
 import java.io.Serializable;
